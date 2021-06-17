@@ -26,6 +26,8 @@
      - Obtener analíticamente el valor del voltaje del circuito mediante el análisis de nodos el cual hace uso de la LCK para expresar corrientes en
 función de voltajes.
      - Identificar los puntos en en los cuales dos o más elementos tienen una conexión común conocidos como nodos. 
+     - Comprobar los conocimientos adquiridos en clase sobre el analisis de nodos,midiendo corrientes y voltajes en cada uno de los circuitos.
+     - Realizar comparaciones entre los datos teóricos usando las técnica de análisis de nodos y los datos prácticos adquiridos en la simulación en tinkerkad.
      
  2. **MARCO TEÓRICO (RESUMEN)**
 
@@ -33,7 +35,11 @@ función de voltajes.
  3. **EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
      - MATERIAL
-     - PROCEDIMIENTO
+    
+    
+    
+    - PROCEDIMIENTO
+  
   
   3.1 Implemente el circuito que se presenta en la figura 3.1.
   
@@ -66,7 +72,7 @@ función de voltajes.
  
  5. **CONCLUSIONES**
  
-       - 
+       - Concluimos que es posible verificar y comprobar las leyes de Kirchoff para circuitos resistivos tanto teoricamente como en la practica. 
        - 
  
  
