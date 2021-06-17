@@ -1,1 +1,77 @@
-# Laboratorio_3
+------------
+ **Asignatura:**  Fundamentos de Circuitos Eléctricos 
+                          
+ **Docente:**     Ing. Darwin Alulema            
+                    
+ **Integrantes:** Mera Erick, Quilumbaquin Lenin, Vallejo Keily
+                  
+ **Semestre:**    Segundo
+ 
+ **Parcial:**     1
+ 
+ **Laboratorio Nro:**     3
+ 
+------------
+## **TEMA:**  Análisis de Nodos
+------------
+
+ 1. **OBJETIVOS**
+
+    #### Objetivo General:
+
+     - Determinar mediante la técnica de análisis de nodos el voltaje de cada nodo del circuito. 
+
+    #### Objetivos Específicos:
+
+     - Obtener analíticamente el valor del voltaje del circuito mediante el análisis de nodos el cual hace uso de la LCK para expresar corrientes en
+función de voltajes.
+     - Identificar los puntos en en los cuales dos o más elementos tienen una conexión común conocidos como nodos. 
+     
+ 2. **MARCO TEÓRICO (RESUMEN)**
+
+
+ 3. **EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+     - MATERIAL
+     - PROCEDIMIENTO
+  
+  3.1 Implemente el circuito que se presenta en la figura 3.1.
+  
+  
+  
+  
+  3.2 Medición de cada una de las corrientes de las malla.
+  
+  
+  
+  
+  3.3 Uso del simulador Tinkercad para el circuito de la figura 3.1, obteniendo los valores de caída de voltaje en los nodos.
+  
+  
+  
+ 
+  Tabla 3.4. Resultados obtenidos para el circuito de la figura 3.1.
+
+  | NODO |  RESULTADOS ANALÍTICOS |RESULTADOS SIMULADOS | % de error|
+  | ------------ | ------------ |------------ |------------ |
+  |  1 |         |              |  %           |
+  |  2 |         |   |    % |
+  |  3 |         |   |  %   |
+  |  4 |         |  |  %   |
+  
+ 4. **VIDEO** 
+  
+  [Análisi de Nodos]( url  " Análisis de Nodos ")
+ 
+ 
+ 5. **CONCLUSIONES**
+ 
+       - 
+       - 
+ 
+ 
+ 6. **BIBLIOGRAFÍA**
+ 
+    eduMedia. (2021). Leyes de kirchhoff. Obtenido de: https://www.edumedia-sciences.com/es/media/510-leyes-de-kirchhoff
+
+    Ramirez, A. (2019). Leyes de kirchhoff. Obtenido de: https://d1wqtxts1xzle7.cloudfront.net/63362670/Leyes_de_Kirchhoff20200519-84014-3f6yxn-with-cover-page.pdf? 
