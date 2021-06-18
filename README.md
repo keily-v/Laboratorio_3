@@ -27,7 +27,7 @@
 función de voltajes.
      - Identificar los puntos en en los cuales dos o más elementos tienen una conexión común conocidos como nodos. 
      - Comprobar los conocimientos adquiridos en clase sobre el analisis de nodos,midiendo corrientes y voltajes en cada uno de los circuitos.
-     - Realizar comparaciones entre los datos teóricos usando las técnica de análisis de nodos y los datos prácticos adquiridos en la simulación en tinkerkad.
+     - Realizar comparaciones entre los datos teóricos usando una de las técnica de análisis de circuitos y los datos prácticos adquiridos en la simulación en tinkerkad.
      
  2. **MARCO TEÓRICO (RESUMEN)**
 
@@ -36,13 +36,14 @@ función de voltajes.
 
      - MATERIAL
     
-    
+    <img src="cap/materiales.PNG">
     
     - PROCEDIMIENTO
   
   
   3.1 Implemente el circuito que se presenta en la figura 3.1.
-  
+   
+   <img src="cap/circuito.PNG">
   
   
   
@@ -53,7 +54,7 @@ función de voltajes.
   
   3.3 Uso del simulador Tinkercad para el circuito de la figura 3.1, obteniendo los valores de caída de voltaje en los nodos.
   
-  
+  <img src="cap/voltajes.PNG">
   
  
   Tabla 3.4. Resultados obtenidos para el circuito de la figura 3.1.
@@ -72,8 +73,9 @@ función de voltajes.
  
  5. **CONCLUSIONES**
  
-       - Concluimos que es posible verificar y comprobar las leyes de Kirchoff para circuitos resistivos tanto teoricamente como en la practica. 
-       - 
+       - Concluimos que es posible verificar y comprobar la ley de corriente  de Kirchhoff para circuitos resistivos tanto teoricamente como en la practica. 
+       - La técnica análisis de nodos reduce la complejidad del circuito ya que al identificar los nodos resulta sencillo obtener el valor de corriente de los que tienen una fuente de voltaje conectada al nodo de referencia.
+       -  
  
  
  6. **BIBLIOGRAFÍA**
