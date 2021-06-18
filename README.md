@@ -51,12 +51,14 @@ función de voltajes.
   
   3.2 Medición de cada una de las corrientes de las malla.
   
+  <img src="cap/nodi1.jpeg">
   
+  <img src="cap/nodo2.jpeg">
   
   
   3.3 Uso del simulador Tinkercad para el circuito de la figura 3.1, obteniendo los valores de caída de voltaje en los nodos.
   
-  <img src="cap/voltajes.PNG">
+  <img src="cap/tinker.jpeg">
   
  
   Tabla 3.4. Resultados obtenidos para el circuito de la figura 3.1.
