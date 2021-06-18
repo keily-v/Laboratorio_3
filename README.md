@@ -46,6 +46,9 @@ función de voltajes.
   3.1 Implemente el circuito que se presenta en la figura 3.1.
    
    <img src="cap/circuito.PNG">
+   
+   
+   <img src="cap/VOL.png">
   
   
   
@@ -65,10 +68,10 @@ función de voltajes.
 
   | NODO |  RESULTADOS ANALÍTICOS |RESULTADOS SIMULADOS | % de error|
   | ------------ | ------------ |------------ |------------ |
-  |  1 |         |              |  %           |
-  |  2 |         |   |    % |
-  |  3 |         |   |  %   |
-  |  4 |         |  |  %   |
+  |  a | 2.82 V | 2.82 V |   0 % |
+  |  b | 4.80 V | 4.80 V |   0 % |
+  |  3 (tierra) |... | ... |  ... |
+  
   
  4. **VIDEO** 
   
