@@ -31,6 +31,8 @@ función de voltajes.
      
  2. **MARCO TEÓRICO (RESUMEN)**
 
+<img src="cap/Diagrama%20en%20blanco%20(4).png">
+
 
  3. **EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
