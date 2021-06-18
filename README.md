@@ -42,6 +42,9 @@ función de voltajes.
     
     <img src="cap/materiales.PNG">
     
+   
+    <img src="cap/ee.jpeg">
+    
     - PROCEDIMIENTO
   
   
