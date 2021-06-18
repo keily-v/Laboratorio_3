@@ -42,9 +42,6 @@ función de voltajes.
     
     <img src="cap/materiales.PNG">
     
-   
-    <img src="cap/ee.jpeg">
-    
     - PROCEDIMIENTO
   
   
@@ -52,6 +49,8 @@ función de voltajes.
    
    <img src="cap/circuito.PNG">
    
+   
+   <img src="cap/ee.jpeg">
   
   3.2 Medición de cada una de las corrientes de las malla.
   
