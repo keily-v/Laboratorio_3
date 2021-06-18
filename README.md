@@ -33,6 +33,8 @@ función de voltajes.
 
 <img src="cap/Diagrama%20en%20blanco%20(4).png">
 
+<img src="cap/VOL.png">
+
 
  3. **EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
@@ -47,10 +49,6 @@ función de voltajes.
    
    <img src="cap/circuito.PNG">
    
-   
-   <img src="cap/VOL.png">
-  
-  
   
   3.2 Medición de cada una de las corrientes de las malla.
   
