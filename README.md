@@ -80,7 +80,7 @@ función de voltajes.
  
        - Concluimos que es posible verificar y comprobar la ley de corriente  de Kirchhoff para circuitos resistivos tanto teoricamente como en la practica. 
        - La técnica análisis de nodos reduce la complejidad del circuito ya que al identificar los nodos resulta sencillo obtener el valor de corriente de los que tienen una fuente de voltaje conectada al nodo de referencia.
-       -  
+       
  
  
  6. **BIBLIOGRAFÍA**
