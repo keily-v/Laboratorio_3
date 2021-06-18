@@ -73,7 +73,7 @@ función de voltajes.
   
  4. **VIDEO** 
   
-  [Análisi de Nodos]( url  " Análisis de Nodos ")
+  [Análisi de Nodos](  https://youtu.be/ha6tzDD1d9g " Análisis de Nodos ")
  
  
  5. **CONCLUSIONES**
